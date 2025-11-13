@@ -4,12 +4,12 @@ Um scanner de redes Wi-Fi para ESP32 que detecta e lista todas as redes disponí
 
 ## 🚀 Funcionalidades
 
-- 🔍 Scan de redes Wi-Fi disponíveis
-- 📊 Mostra força do sinal (RSSI) 
-- 🔒 Identifica tipo de segurança
-- 📡 Mostra canal de operação
-- 💡 LED indicador de status
-- 🔄 Scan automático a cada 30 segundos
+- Scan de redes Wi-Fi disponíveis
+- Mostra força do sinal (RSSI) 
+- Identifica tipo de segurança
+- Mostra canal de operação
+- LED indicador de status
+- Scan automático a cada 30 segundos
 
 ## 🛠️ Hardware Necessário
 
