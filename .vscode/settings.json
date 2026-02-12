@@ -2,10 +2,14 @@
     "idf.port": "COM3",
     "idf.adapterTargetName": "esp32",
     "idf.openOcdConfigs": [
-        "board/esp32-wrover-kit-3.3v.cfg"
+        "board/esp32s3-builtin.cfg"
     ],
     "C_Cpp.default.configurationProvider": "espressif.esp-idf",
     "C_Cpp.errorSquiggles": "disabled",
     "idf.flashType": "UART",
-    "idf.portWin": "COM3"
+    "idf.portWin": "COM4",
+    "idf.currentSetup": "C:/Espressif/frameworks/esp-idf-v5.5.2/",
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32s3"
+    }
 }
